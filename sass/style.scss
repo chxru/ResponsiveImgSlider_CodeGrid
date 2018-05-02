@@ -42,6 +42,7 @@ html, body {
         overflow: hidden;
     }
 
+    // start from 2nd child because the first child is the span tag
     .slide:nth-child(2) {
         left: 0%;
         animation-delay: -0.5s;
